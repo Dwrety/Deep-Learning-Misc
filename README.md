@@ -4,5 +4,7 @@
     # Angular Softmax
     # ASGD
     # Local-Attention (Luong, 2015)
+    # Rolling updata...
+    # ...
     
 A Pytorch/TensorFlow implementation of 
