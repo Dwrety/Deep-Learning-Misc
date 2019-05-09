@@ -1,2 +1,8 @@
-# Triplet-Loss-Implementation
-A Pytorch/TensorFlow implementation of triplet loss
+# Pytorch/TensorFlow implementation of helper functions
+# TODO:
+    # Triplet loss
+    # Angular Softmax
+    # ASGD
+    # Local-Attention (Luong, 2015)
+    
+A Pytorch/TensorFlow implementation of 
